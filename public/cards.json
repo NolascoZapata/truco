@@ -1,0 +1,321 @@
+[{
+    "id": "e1",
+    "truco_value": 15,
+    "envido_value": 1,
+    "img_src": "https:\/\/i.ibb.co\/5TXGvcV\/e1.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e2",
+    "truco_value": 10,
+    "envido_value": 2,
+    "img_src": "https:\/\/i.ibb.co\/FYFchjJ\/e2.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e3",
+    "truco_value": 11,
+    "envido_value": 3,
+    "img_src": "https:\/\/i.ibb.co\/FqtKZFV\/e3.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e4",
+    "truco_value": 2,
+    "envido_value": 4,
+    "img_src": "https:\/\/i.ibb.co\/d4D0RFf\/e4.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e5",
+    "truco_value": 3,
+    "envido_value": 5,
+    "img_src": "https:\/\/i.ibb.co\/sHNrj3H\/e5.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e6",
+    "truco_value": 4,
+    "envido_value": 6,
+    "img_src": "https:\/\/i.ibb.co\/SXfG5q3\/e6.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e7",
+    "truco_value": 13,
+    "envido_value": 7,
+    "img_src": "https:\/\/i.ibb.co\/PGWXKB0\/e7.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e10",
+    "truco_value": 6,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/zPdCBYQ\/e8.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e11",
+    "truco_value": 7,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/xqWH6nQ\/e9.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "e12",
+    "truco_value": 8,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/hHXP3qC\/e10.png",
+    "palo_suit": "e",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c1",
+    "truco_value": 9,
+    "envido_value": 1,
+    "img_src": "https:\/\/i.ibb.co\/Y8HkM23\/c1.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c2",
+    "truco_value": 10,
+    "envido_value": 2,
+    "img_src": "https:\/\/i.ibb.co\/rcwMB3g\/c2.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c3",
+    "truco_value": 11,
+    "envido_value": 3,
+    "img_src": "https:\/\/i.ibb.co\/6JhpxYL\/c3.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c4",
+    "truco_value": 2,
+    "envido_value": 4,
+    "img_src": "https:\/\/i.ibb.co\/PCwJ1k1\/c4.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c5",
+    "truco_value": 3,
+    "envido_value": 5,
+    "img_src": "https:\/\/i.ibb.co\/zXrPNRf\/c5.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c6",
+    "truco_value": 4,
+    "envido_value": 6,
+    "img_src": "https:\/\/i.ibb.co\/s5WxxvF\/c6.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c7",
+    "truco_value": 5,
+    "envido_value": 7,
+    "img_src": "https:\/\/i.ibb.co\/X4GcMkT\/c7.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c10",
+    "truco_value": 6,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/PgbZ1yn\/c8.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c11",
+    "truco_value": 7,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/B3Sf2nS\/c9.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "c12",
+    "truco_value": 8,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/x67Xr3G\/c10.png",
+    "palo_suit": "c",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o1",
+    "truco_value": 9,
+    "envido_value": 1,
+    "img_src": "https:\/\/i.ibb.co\/gDKY5KR\/o1.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o2",
+    "truco_value": 10,
+    "envido_value": 2,
+    "img_src": "https:\/\/i.ibb.co\/3SfHLPP\/o2.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o3",
+    "truco_value": 11,
+    "envido_value": 3,
+    "img_src": "https:\/\/i.ibb.co\/4pBwgHJ\/o3.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o4",
+    "truco_value": 2,
+    "envido_value": 4,
+    "img_src": "https:\/\/i.ibb.co\/KKWKNPw\/o4.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o5",
+    "truco_value": 3,
+    "envido_value": 5,
+    "img_src": "https:\/\/i.ibb.co\/gPcQHSQ\/o5.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o6",
+    "truco_value": 4,
+    "envido_value": 6,
+    "img_src": "https:\/\/i.ibb.co\/H7bc6qX\/o6.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o7",
+    "truco_value": 12,
+    "envido_value": 7,
+    "img_src": "https:\/\/i.ibb.co\/kH8Qvfg\/o7.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o10",
+    "truco_value": 6,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/Z8BLCWT\/o8.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o11",
+    "truco_value": 7,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/Nn12CzQ\/o9.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "o12",
+    "truco_value": 8,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/yqzzGgj\/o10.png",
+    "palo_suit": "o",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b1",
+    "truco_value": 14,
+    "envido_value": 1,
+    "img_src": "https:\/\/i.ibb.co\/chWFq4K\/b1.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b2",
+    "truco_value": 10,
+    "envido_value": 2,
+    "img_src": "https:\/\/i.ibb.co\/8g57Q3F\/b2.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b3",
+    "truco_value": 11,
+    "envido_value": 3,
+    "img_src": "https:\/\/i.ibb.co\/yF2jkXg\/b3.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b4",
+    "truco_value": 2,
+    "envido_value": 4,
+    "img_src": "https:\/\/i.ibb.co\/p2nxWWn\/b4.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b5",
+    "truco_value": 3,
+    "envido_value": 5,
+    "img_src": "https:\/\/i.ibb.co\/wpw9SRk\/b5.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b6",
+    "truco_value": 4,
+    "envido_value": 6,
+    "img_src": "https:\/\/i.ibb.co\/fQ8J8vN\/b6.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b7",
+    "truco_value": 5,
+    "envido_value": 7,
+    "img_src": "https:\/\/i.ibb.co\/3r4sQPf\/b7.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b10",
+    "truco_value": 6,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/xs49T36\/b8.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b11",
+    "truco_value": 7,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/5jx6TRH\/b9.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  },
+  {
+    "id": "b12",
+    "truco_value": 8,
+    "envido_value": 0,
+    "img_src": "https:\/\/i.ibb.co\/P6WdkqP\/b10.png",
+    "palo_suit": "b",
+    "card_reverse":"https://i.ibb.co/hm7zfsL/r0.png"
+  }
+]
